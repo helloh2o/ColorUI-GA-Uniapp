@@ -28,7 +28,7 @@
                             style="background-image: url(https://image.meiye.art/FlqKg5bugFQD5Qzm_QhGM7ET4Mtx?imageMogr2/thumbnail/450x/interlace/1)"
                         ></view>
                         <view class="content">
-                            <view class="text-lg text-brown">吴天毅_7845 < view class="cu-tag margin-right round bg-yellow sm">Lv3</view>
+                            <view class="text-lg text-brown">吴天毅_7845</view><view class="cu-tag margin-right round bg-yellow sm">Lv3</view>
                         </view>
                         <view class="text-gray text-sm">6月20号</view>
                     </view>
@@ -102,7 +102,7 @@
                         style="background-image: url(https://image.meiye.art/Fha6tqRTIwHtlLW3xuZBJj8ZXSX3?imageMogr2/thumbnail/450x/interlace/1)"
                     ></view>
                     <view class="content">
-                        <view class="text-lg text-brown">吴天毅_7845 < view class="cu-tag margin-right round bg-yellow sm">Lv3</view>
+                        <view class="text-lg text-brown">吴天毅_7845</view><view class="cu-tag margin-right round bg-yellow sm">Lv3</view>
                     </view>
                     <view class="text-gray text-sm">6月20号</view>
                 </view>
